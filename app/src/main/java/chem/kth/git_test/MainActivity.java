@@ -5,8 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-
-
+    //shit code hater
     //Hello android
     @Override
     protected void onCreate(Bundle savedInstanceState) {
